@@ -16,7 +16,7 @@ apb ( e : autres) formations =
 main = hspec $ do
   describe "apb" $ do
 
-    it "donne aux a chaque etudiante la formation qu'elle demande" $ do
+    it "donne a chaque etudiante la formation qu'elle demande" $ do
       apb [e1,e2,e3] [f1, f2] `shouldBe`
         [(e1,f1),
          (e2,f2),

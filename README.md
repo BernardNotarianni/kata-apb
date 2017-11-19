@@ -3,7 +3,7 @@
 Quelques solutions pour le [Kata APB](http://notarianni.org/article/kata-apb/)
 
 
-# Solution 1
+### Solution 1
 
 [apb1.hs](apb1.hs)
 
@@ -11,10 +11,19 @@ Quelques solutions pour le [Kata APB](http://notarianni.org/article/kata-apb/)
 - Aucun choix ou résultats de notes formulés
 - Pas de limite aux nombre de places disponibles
 
-# Solution 2
+### Solution 2
 
 [apb2.hs](apb2.hs)
 
 - Les étudiants sont répartis exactement selon leurs choix
 - Aucune limite au nombre de places disponibles et pas de critère à l'entrée
 
+### Solution 3
+
+[apb3.hs](apb3.hs)
+
+- Les étudiants sont répartis exactement selon leurs choix, a condition d'avoir
+  la note minimale attendue par la formation demandée.
+- S'ils n'ont pas pas la note attendue, il sont affecté aléatoire dans une liste
+  de formation "par défaut".
+- Aucune limite au nombre de places disponibles
