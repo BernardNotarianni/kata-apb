@@ -24,6 +24,6 @@ Quelques solutions pour le [Kata APB](http://notarianni.org/article/kata-apb/)
 
 - Les étudiants sont répartis exactement selon leurs choix, a condition d'avoir
   la note minimale attendue par la formation demandée.
-- S'ils n'ont pas pas la note attendue, il sont affecté aléatoire dans une liste
-  de formation "par défaut".
+- S'ils n'ont pas la note attendue, ils sont affectés à une formation par
+  défaut.
 - Aucune limite au nombre de places disponibles
