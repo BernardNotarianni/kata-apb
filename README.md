@@ -1,2 +1,5 @@
 # kata-apb
-Des solutions au kata APB
+
+Quelques solutions pour le [Kata APB](http://notarianni.org/article/kata-apb/)
+
+
